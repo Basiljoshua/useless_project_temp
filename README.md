@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Project SpoilerRinnggg 🎯
 
 
 ## Basic Details
@@ -8,31 +8,27 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Basil Joshua Reji - CET
+- Member 2: Sidharthan B - CET
+- Member 3: Mohammed Suhail - CET
 
 ### Project Description
 [2-3 lines about what your project does]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+We always find spoilers in one way or the other of our favourite shows. how can we resolve this
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+An alarm that doesnt stop until you learn the spoilers of your favourite show
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- React, HTML ,CSS , jsx
+
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- nil
 
 ### Implementation
 For Software:
@@ -46,14 +42,20 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![AlarmSetup](Add screenshot 1 here with proper name)
+![image](https://github.com/user-attachments/assets/44c24513-d2fe-41ae-b32a-ab742b932b05)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+ladning page where we can set up the alarm 
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![AlarmAlert](Add screenshot 2 here with proper name)
+![image](https://github.com/user-attachments/assets/719b79eb-5459-4304-9c4c-4b00a0010b5c)
+
+to disabe or turn off the alarm, one must solve this ridiculous quiz
+
+![AlarmDisable](Add screenshot 3 here with proper name)
+![image](https://github.com/user-attachments/assets/2668695a-c8dd-409b-86b6-34045ca98773)
+
+On choosing the right answer, the alarm turns off
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -80,8 +82,12 @@ For Hardware:
 
 ### Project Demo
 # Video
+
 [Add your demo video link here]
-*Explain what the video demonstrates*
+https://github.com/user-attachments/assets/b3ba4ab5-e238-4150-9042-7c460b0a8732
+
+
+video demonstrates complete working
 
 # Additional Demos
 [Add any extra demo materials/links]
